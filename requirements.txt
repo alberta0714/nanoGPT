@@ -1,0 +1,4 @@
+transformers==4.26.0
+tiktoken==0.1.2
+wandb==0.13.9
+tqdm==4.64.1
